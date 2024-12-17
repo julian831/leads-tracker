@@ -2,11 +2,12 @@ body {
     margin: 0 auto;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
-    min-width: 400px;
+    max-width: 302px;
 }
 
 label {
-    color:#5f9341
+    color:#5f9341;
+    font-weight: 900;
 }
 
 button {
@@ -28,7 +29,7 @@ input {
     width: 100%;
     box-sizing: border-box;
     border: 1px solid #5f9341;
-
+    margin-bottom: 4px;
 }
 
 ul {
